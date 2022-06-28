@@ -1,1 +1,0 @@
-Hello there! This repository is the base coding hub of the Earthen Development Project. This project is meant to turn real life animals into unique Pokemon that thrived in unique habitats, unique times, and the best thing is you can play them all in this server
